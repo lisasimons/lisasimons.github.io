@@ -15,7 +15,7 @@ Law 2 has this "AI Resonance Pyramid", which I reckon is a good model for when A
 
 ![Tayla Burrell‘s AI Resonance Pyramid](../../assets/images/AI-resonance-pyramid.jpg)
 
-It explains the controversy around Druckenmiller’s obviously AI written op ed.
+It explains the controversy around [Druckenmiller’s obviously AI written op ed](https://www.theguardian.com/us-news/2026/aug/25/scott-bessent-stanley-druckenmiller-ai).
 
 #learningaboutai #aiwriting
 

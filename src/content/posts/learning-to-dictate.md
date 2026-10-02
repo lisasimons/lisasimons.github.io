@@ -1,7 +1,7 @@
 ---
 title: "Thinking Out Loud with Dictation is Hard"
 description: "Trying to switch from written notes to dictation is hard for me as a visual thinker."
-pubDatetime: 2026-09-12T09:00:00+10:00
+pubDatetime: 2026-09-11T09:00:00+10:00
 tags: ["learningaboutai", "aibuzzwords"]
 featured: false
 draft: false
