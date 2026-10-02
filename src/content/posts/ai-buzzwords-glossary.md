@@ -1,13 +1,13 @@
 ---
 title: "AI Buzzwords Glossary"
-description: "A glossary of AI buzzwords, from p(doom) and MCP to GEO and agent swarms, with a plain-English meaning for each."
+description: "A running glossary of AI buzzwords, from my #aibuzzwords posts, with a short meaning for each and a link to the post where it came up"
 pubDatetime: 2026-09-28T09:00:00+10:00
 tags: ["learningaboutai", "aibuzzwords"]
 featured: true
 draft: false
 ---
 
-A running glossary of the AI buzzwords from my #aibuzzwords posts, with a short meaning for each and a link to the post where it came up.
+AI: Artificial Intelligence. Augmented Intelligence.
 
 | Buzzword | What it means | Post |
 |---|---|---|
