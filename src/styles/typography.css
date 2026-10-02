@@ -28,7 +28,7 @@
     }
 
     a {
-      @apply text-foreground hover:text-accent wrap-break-word decoration-dashed underline-offset-4 focus-visible:no-underline;
+      @apply text-foreground decoration-accent hover:decoration-2 wrap-break-word underline-offset-4 focus-visible:no-underline;
     }
 
     ul {
@@ -44,7 +44,7 @@
     }
 
     img {
-      @apply border-border mx-auto border;
+      @apply border-border mx-auto rounded-lg border;
     }
 
     img[role="button"] {
@@ -94,7 +94,12 @@
     }
 
     blockquote {
-      @apply border-s-accent/80 wrap-break-word opacity-80;
+      @apply border-s-accent bg-muted/40 rounded-e-md py-0.5 font-normal not-italic wrap-break-word [&_p]:my-2;
+
+      p::before,
+      p::after {
+        content: none;
+      }
     }
 
     details:not(.callout) {

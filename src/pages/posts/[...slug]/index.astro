@@ -75,6 +75,10 @@ const {
 
 const { Content } = await render(post);
 
+// The post's ogImage is also shown as its header image
+const heroImage =
+  typeof initOgImage === "string" ? initOgImage : initOgImage?.src;
+
 let ogImageUrl: string | undefined;
 
 if (typeof initOgImage === "string") {
@@ -113,32 +117,40 @@ const ogImage = ogImageUrl
     class:list={["app-layout", { "mt-8": !config.features.showBackButton }]}
     data-pagefind-body
   >
-    <h1
-      style={{ viewTransitionName: toTransitionName(post.id) }}
-      class="text-accent inline-block text-2xl font-bold sm:text-3xl"
-    >
-      {title}
-    </h1>
-
-    <div class="my-2 flex items-center gap-2">
-      <Datetime {pubDatetime} {modDatetime} {timezone} size="lg" />
-      <span
-        aria-hidden="true"
-        class:list={[
-          "text-muted-foreground max-sm:hidden",
-          { hidden: !config.features.editPost?.enabled || hideEditPost },
-        ]}
+    <header class="border-border border-b pb-8">
+      <h1
+        style={{ viewTransitionName: toTransitionName(post.id) }}
+        class="text-3xl leading-tight font-bold tracking-tight text-balance sm:text-4xl"
       >
-        |
-      </span>
-      <EditPost {hideEditPost} {post} class="max-sm:hidden" />
-    </div>
+        {title}
+      </h1>
+      <p class="text-muted-foreground mt-4 max-w-[60ch] text-lg leading-relaxed sm:text-xl">
+        {description}
+      </p>
+      <div class="mt-6 flex flex-wrap items-center gap-x-4 gap-y-2 text-sm">
+        <span class="font-semibold">{config.site.author}</span>
+        <Datetime {pubDatetime} {modDatetime} {timezone} />
+        <EditPost {hideEditPost} {post} class="max-sm:hidden" />
+      </div>
+    </header>
+
+    {
+      heroImage && (
+        <img
+          src={heroImage}
+          alt=""
+          width="1200"
+          height="630"
+          class="border-border mt-8 w-full rounded-lg border"
+        />
+      )
+    }
 
     <article
       id="article"
       class:list={[
         "mt-8 w-full",
-        "app-prose max-w-app",
+        "app-prose max-w-app sm:prose-lg",
         "prose-pre:bg-(--shiki-light-bg) dark:prose-pre:bg-(--shiki-dark-bg)",
       ]}
     >
