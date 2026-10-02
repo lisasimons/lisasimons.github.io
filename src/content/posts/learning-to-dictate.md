@@ -1,6 +1,7 @@
 ---
 title: "Thinking Out Loud with Dictation is Hard"
 description: "What switching from written notes to dictation revealed about how a visual thinker works."
+ogImage: "../../assets/images/dictation-flow.png"
 pubDatetime: 2026-09-12T09:00:00+10:00
 tags: ["learningaboutai", "aidictation"]
 featured: false

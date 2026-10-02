@@ -1,6 +1,7 @@
 ---
 title: "AI Buzzwords: Abundance and the Infinite Backlog"
 description: "Dealing with the overwhelming abundance of information and capability that AI puts at our fingertips."
+ogImage: "../../assets/images/abundance-cursor.png"
 pubDatetime: 2026-09-21T09:00:00+10:00
 tags: ["learningaboutai", "aibuzzwords"]
 featured: false

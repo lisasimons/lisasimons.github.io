@@ -1,6 +1,7 @@
 ---
 title: "Why Are Tokens My Problem?"
 description: "How AI pricing models shape user behaviour, and why token management has become the user's job."
+ogImage: "../../assets/images/token-pricing.png"
 pubDatetime: 2026-09-14T09:00:00+10:00
 tags: ["learningaboutai"]
 featured: false

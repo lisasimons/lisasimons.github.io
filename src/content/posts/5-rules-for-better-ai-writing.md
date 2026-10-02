@@ -1,6 +1,7 @@
 ---
 title: "5 Rules for Better AI Writing from AIDB"
 description: "Notes on The AI Daily Brief's 5 rules for better AI writing, and why writing is thinking for a business analyst."
+ogImage: "../../assets/images/5-rules-ai-writing.png"
 pubDatetime: 2026-09-02T12:00:00+10:00
 tags: ["learningaboutai", "aiwriting"]
 featured: false

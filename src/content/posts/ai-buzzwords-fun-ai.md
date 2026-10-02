@@ -1,6 +1,7 @@
 ---
 title: "AI Buzzwords: Fun AI"
 description: "Efficiency AI, Opportunity AI, and a proposed new buzzword: Fun AI."
+ogImage: "../../assets/images/fun-ai.png"
 pubDatetime: 2026-09-25T09:00:00+10:00
 tags: ["aibuzzwords"]
 featured: false

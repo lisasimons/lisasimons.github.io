@@ -1,6 +1,7 @@
 ---
 title: "AI Buzzwords Glossary"
 description: "A glossary of 36 AI buzzwords, from p(doom) and MCP to GEO and agent swarms, with a plain-English meaning for each."
+ogImage: "../../assets/images/ai-buzzwords-glossary.png"
 pubDatetime: 2026-09-28T09:00:00+10:00
 tags: ["learningaboutai", "aibuzzwords"]
 featured: true

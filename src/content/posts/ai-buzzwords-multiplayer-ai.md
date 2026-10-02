@@ -1,6 +1,7 @@
 ---
 title: "AI Buzzwords: Multiplayer AI and Shared Agents"
 description: "Questions raised by shared agents and human-agent teams: sharing, ways of working and responsibility."
+ogImage: "../../assets/images/shared-agent-questions.png"
 pubDatetime: 2026-09-22T09:00:00+10:00
 tags: ["learningaboutai", "aibuzzwords"]
 featured: false
