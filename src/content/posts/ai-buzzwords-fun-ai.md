@@ -9,12 +9,11 @@ draft: false
 
 AI buzzwords: Efficiency AI, Opportunity AI.
 
-There is already: Efficiency AI and Opportunity AI. 
-
 I propose a new buzzword: Fun AI.
 
 ![AI buzzwords: Efficiency AI, Opportunity AI. Fun AI.](../../assets/images/fun-ai.png)
 
+Fun AI wouldn't be so serious. It would bring joy.
 
 <div style="position:relative;padding-bottom:56.25%;height:0;margin:1.5rem 0">
   <iframe src="https://www.youtube-nocookie.com/embed/b34vwOWLDXI"

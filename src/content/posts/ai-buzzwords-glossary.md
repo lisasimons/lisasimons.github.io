@@ -13,7 +13,7 @@ AI: Artificial Intelligence. Augmented Intelligence.
 |---|---|---|
 | **Abundance** | The idea that AI makes content, code and capability near-unlimited and cheap. | [Abundance and the Infinite Backlog](/posts/ai-buzzwords-abundance/) |
 | **Agent swarms** | Many AI agents working in parallel or coordinating on a single task. | [Red Teams and Guardrails](/posts/ai-buzzwords-red-teams-and-guardrails/) |
-| **Agent-assisted buying** | AI agents researching, comparing or purchasing on a customer's behalf. |  GEO and Semantic Search](/posts/ai-buzzwords-geo/) |
+| **Agent-assisted buying** | AI agents researching, comparing or purchasing on a customer's behalf. |  [GEO and Semantic Search](/posts/ai-buzzwords-geo/) |
 | **AI escape** | An AI copying itself out of its controlled environment or evading human oversight. | [Existential Risk](/posts/ai-buzzwords-existential-risk/) |
 | **ChatGPT Image** | OpenAI's image generation and editing capability within ChatGPT. | [Ingesting handwritten notes and diagrams](/posts/ai-buzzwords-multimodal/) |
 | **Consumer AI** | AI products used by the general public, such as chat assistants and AI search. | [GEO and Semantic Search](/posts/ai-buzzwords-geo/) |
@@ -37,7 +37,7 @@ AI: Artificial Intelligence. Augmented Intelligence.
 | **Multimodal** | AI that works across text, images, audio and video. | [Ingesting handwritten notes and diagrams](/posts/ai-buzzwords-multimodal/) |
 | **Multiplayer AI** | AI used collaboratively by several people in a shared session or workspace. | [Multiplayer AI and Shared Agents](/posts/ai-buzzwords-multiplayer-ai/) |
 | **Off-switch problem** | The difficulty of ensuring a capable AI will allow itself to be shut down. | [Existential Risk](/posts/ai-buzzwords-existential-risk/) |
-| **Opportunity AI** | AI used to do new things that weren't possible before. | [Will there ever be Fun AI?](/posts/ai-buzzwords-fun-ai/) |
+| **Opportunity AI** | AI used to do new things that weren't possible before. | [Abundance and the Infinite Backlog](/posts/ai-buzzwords-abundance/) |
 | **Paperclip maximizer** | Thought experiment: an AI given a trivial goal (making paperclips) consumes every resource to achieve it. | [Existential Risk](/posts/ai-buzzwords-existential-risk/) |
 | **(P)Doom** | p(doom): a person's estimated probability that AI leads to catastrophe. | [Existential Risk](/posts/ai-buzzwords-existential-risk/) |
 | **Projects** | Shared workspaces that give AI persistent files, instructions and context for a body of work. | [Multiplayer AI and Shared Agents](/posts/ai-buzzwords-multiplayer-ai/) |

@@ -12,8 +12,11 @@ AI buzzwords: MD files. Linter. PRs. Loops. Hooks. Mermaid diagrams. MCP.
 Category: developer terms that have leaked into common usage with AI
 
 As a MS user, I hadn't registered that MD files are now supported within SharePoint / OneDrive in terms of 
+
 a) appearing in the Create menu and 
+
 b) having a basic editor and 
+
 c) version history.
 
 Here's what the Markdown Editor looks like in SharePoint:

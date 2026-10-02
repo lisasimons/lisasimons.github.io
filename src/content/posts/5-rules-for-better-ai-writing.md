@@ -9,7 +9,7 @@ draft: false
 
 AI Buzzwords: AI Writing.
 
-I enjoy listening to [The AI Daily Brief](https://www.linkedin.com/company/aidailybrief/). It doesn’t feel like homework. 
+I enjoy listening to [The AI Daily Brief](https://aidailybrief.ai/). It doesn’t feel like homework. 
 The ‘5 rules for better ai writing’ episode was particularly interesting to me as a BA.
 
 ![AI buzzwords: AI Writing.](../../assets/images/5-rules-ai-writing.png)
