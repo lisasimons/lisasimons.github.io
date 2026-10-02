@@ -1,6 +1,6 @@
 ---
 title: "5 Rules for Better AI Writing from AIDB"
-description: "Notes on The AI Daily Brief's 5 rules for better AI writing, and why writing is thinking for a business analyst."
+description: "AI Buzzwords: AI Writing"
 ogImage: "../../assets/images/5-rules-ai-writing.png"
 pubDatetime: 2026-09-02T12:00:00+10:00
 tags: ["learningaboutai", "aiwriting"]
@@ -8,7 +8,7 @@ featured: false
 draft: false
 ---
 
-I enjoy listening to The AI Daily Brief [https://www.linkedin.com/company/aidailybrief/]. Doesn’t feel like homework.
+I enjoy listening to The AI Daily Brief [https://www.linkedin.com/company/aidailybrief/]. It doesn’t feel like homework.
 
 The ‘5 rules for better ai writing’ episode is particularly interesting to me as a BA.
 
