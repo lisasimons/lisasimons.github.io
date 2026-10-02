@@ -1,7 +1,6 @@
 ---
 title: "AI Buzzwords Glossary"
-description: "A glossary of 36 AI buzzwords, from p(doom) and MCP to GEO and agent swarms, with a plain-English meaning for each."
-ogImage: "../../assets/images/ai-buzzwords-glossary.png"
+description: "A glossary of AI buzzwords, from p(doom) and MCP to GEO and agent swarms, with a plain-English meaning for each."
 pubDatetime: 2026-09-28T09:00:00+10:00
 tags: ["learningaboutai", "aibuzzwords"]
 featured: true
@@ -48,5 +47,8 @@ A running glossary of the AI buzzwords from my #aibuzzwords posts, with a short 
 | **Semantic search** | Search based on meaning and intent rather than matching keywords. | [AI Buzzwords: GEO and Semantic Search](/posts/ai-buzzwords-geo/) |
 | **Shared agents** | Agents built once and used by a team, rather than private to one person. | [AI Buzzwords: Multiplayer AI and Shared Agents](/posts/ai-buzzwords-multiplayer-ai/) |
 | **Slowdown** | Proposals to slow or pause frontier AI development until safety measures catch up. | [AI Buzzwords: Red Teams and Guardrails](/posts/ai-buzzwords-red-teams-and-guardrails/) |
+
+
+ogImage: "../../assets/images/ai-buzzwords-glossary.png"
 
 #learningaboutai #aibuzzwords

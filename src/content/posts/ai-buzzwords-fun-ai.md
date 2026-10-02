@@ -1,5 +1,5 @@
 ---
-title: "AI Buzzwords: Fun AI"
+title: "Will there ever be Fun AI?"
 description: "AI doesn't have a sense of humour or fun. Should it?"
 pubDatetime: 2026-09-25T09:00:00+10:00
 tags: ["aibuzzwords"]

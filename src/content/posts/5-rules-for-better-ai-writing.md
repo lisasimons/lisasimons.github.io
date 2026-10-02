@@ -1,6 +1,6 @@
 ---
 title: "5 Rules for Better AI Writing from AIDB"
-description: "As a knowledge worker, I am looking for principles for when it is acceptable to use AI to write."
+description: "As a knowledge worker, I am looking for principles for I should use AI to help me write."
 pubDatetime: 2026-09-02T12:00:00+10:00
 tags: ["learningaboutai", "aiwriting"]
 featured: false
@@ -9,11 +9,8 @@ draft: false
 
 AI Buzzwords: AI Writing.
 
-I enjoy listening to [The AI Daily Brief](https://www.linkedin.com/company/aidailybrief/). 
-
-It doesn’t feel like homework.
-
-The ‘5 rules for better ai writing’ episode is particularly interesting to me as a BA.
+I enjoy listening to [The AI Daily Brief](https://www.linkedin.com/company/aidailybrief/). It doesn’t feel like homework. 
+The ‘5 rules for better ai writing’ episode was particularly interesting to me as a BA.
 
 ![AI buzzwords: AI Writing.](../../assets/images/5-rules-ai-writing.png)
 

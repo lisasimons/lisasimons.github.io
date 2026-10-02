@@ -1,7 +1,6 @@
 ---
 title: "Multiplayer AI and Shared Agents"
 description: "Questions raised by shared agents and human-agent teams: sharing, ways of working and responsibility."
-ogImage: "../../assets/images/shared-agent-questions.png"
 pubDatetime: 2026-09-22T09:00:00+10:00
 tags: ["learningaboutai", "aibuzzwords"]
 featured: false
@@ -13,6 +12,8 @@ AI Buzzwords: Multiplayer AI. Shared agents. Projects. human-agent teams.
 One thing I like about AI is it challenges us to question what makes us human. 
 
 Shared agents are essentially like a new team member. A new person that we build ourselves.
+
+![AI Buzzwords: Shared Agents](./../assets/images/shared-agent-questions.png)
 
 Looking into multiplayer agents raises questions for me:
 1) How good are we going to be at sharing? 

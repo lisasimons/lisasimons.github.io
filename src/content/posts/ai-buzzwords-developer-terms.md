@@ -16,6 +16,7 @@ a) appearing in the Create menu and
 b) having a basic editor and 
 c) version history.
 
+Here's what the Markdown Editor looks like in SharePoint:
 ![A Markdown file open in SharePoint, showing the editor alongside the rendered preview](/images/md-file-in-sharepoint.jpg)
 
 There's future improvements in the roadmap including editing and Copilot integration.

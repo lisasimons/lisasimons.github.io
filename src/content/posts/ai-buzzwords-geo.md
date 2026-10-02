@@ -1,5 +1,5 @@
 ---
-title: "AI Buzzwords: GEO and Semantic Search"
+title: "GEO and Semantic Search"
 description: "What generative engine optimisation (GEO) means for websites when AI answers replace search results."
 ogImage: "../../assets/images/two-ways-to-be-found.png"
 pubDatetime: 2026-09-23T09:00:00+10:00

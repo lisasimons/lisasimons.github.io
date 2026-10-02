@@ -11,7 +11,7 @@ AI Buzzwords: Knowledge worker. Models. Tokens. Prompts. Memory. Context.
 
 As a "knowledge worker" I feel like this word cloud is an accurate representation of my brain at the moment. Buzzword bingo city.
 
-![Word cloud of AI buzzwords: agents, models, tokens, graphs, mcp, native AI, harness, prompts, memory, loops, context](/images/ai-buzzword-word-cloud.jpg)
+![Word cloud of AI buzzwords: agents, models, tokens, graphs, mcp, native AI, harness, prompts, memory, loops, context](/images/ai-buzzwords-glossary.png)
 
 I do wonder how the war between the "infinite backlog" of possibilities and the "abundance of sameness" will play out?
 

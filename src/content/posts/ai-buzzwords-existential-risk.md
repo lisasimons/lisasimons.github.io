@@ -1,5 +1,5 @@
 ---
-title: "AI Buzzwords: Existential Risk"
+title: "Existential Risk"
 description: "Existential risk, misalignment and p(doom): AI safety in the news."
 pubDatetime: 2026-09-16T09:00:00+10:00
 tags: ["learningaboutai", "aibuzzwords"]
