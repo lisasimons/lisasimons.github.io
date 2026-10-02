@@ -6,17 +6,16 @@ description: "A bit about me and this blog."
 I'm a Senior Business Analyst consultant based in Sydney.
 
 I’m an expert in Business Analysis practices, having delivered technical requirements and operational designs on more than 20 projects. 
+
 I naturally enjoy connecting the dots between products, technology and people.
-
-My specialty is in adapting deliverables for enterprise-level projects to ensure business and product objectives are met. 
-
-I have deep domain knowledge in Australian payments, in particular the NPP scheme (Osko, PayTo, PayID).
 
 ![Lisa Simons](/images/2026LisaSimons.jpg)
 
 ## About this site
 
-This is where I keep notes about ideas I am interested in.## What I do
+This is where I keep notes about ideas I am interested in.
+
+## What I do
 
 | Area | In practice |
 |---|---|
@@ -24,6 +23,10 @@ This is where I keep notes about ideas I am interested in.## What I do
 | **Product Thinking** | Product management principles in practice; As-Is and To-Be assessments; Aligning delivery with strategy |
 | **Information Architecture** | Project frameworks and governance; Service blueprints; Operational design; Enterprise standards & workspace design |
 | **Consulting** | Insights and recommendations; Options evaluation; ·      Solution proposals;  |
+
+My specialty is in adapting deliverables for enterprise-level projects to ensure business and product objectives are met. 
+
+I have deep domain knowledge in Australian payments, in particular the NPP scheme (Osko, PayTo, PayID).
 
 ## Background
 
