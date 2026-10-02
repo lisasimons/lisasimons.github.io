@@ -29,6 +29,7 @@ This is where I keep notes about ideas I am interested in.## What I do
 
 Currently I work as a consultant at Brainmates, where I have worked with product managers across a broad portfolio of projects in a variety of industries, including: payments, banking, education, contact centres, and government.
 
+
 I started as an electrical engineer in control systems.
 I hold a Bachelor of Engineering (Honours, Electrical) from UNSW, and a Master of Engineering Management from UTS.
 
