@@ -1,6 +1,6 @@
 ---
-title: "About"
-description: "A bit about me and this blog."
+title: "About Lisa Simons"
+description: "I am a business analyst working with product managers, and this site is my experiment with using AI"
 ---
 
 I'm a Senior Business Analyst consultant based in Sydney.
