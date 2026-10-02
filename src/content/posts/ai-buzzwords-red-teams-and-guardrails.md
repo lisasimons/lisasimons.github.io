@@ -1,6 +1,6 @@
 ---
 title: "Red Teams and Guardrails"
-description: "Frontier, slowdown, red teams and agent swarms: treading the path between AI risk and opportunity."
+description: "Red teams and agent swarms. When guardrails prevent defense."
 pubDatetime: 2026-09-18T09:00:00+10:00
 tags: ["learningaboutai", "aibuzzwords"]
 featured: false
@@ -15,7 +15,7 @@ I like to imagine internal Fraud teams committing crimes, and the Risk teams goa
 
 In the discussions around “slowing down” AI, the cynic in me wonders what is really a risk, and what is in fact just a competitive play.
 
-Certainly the volume of information in Anthropic’s Misuses of AI is kind of overwhelming. There’s a lot for Fraud and Risk teams to consider (see what I did there?).
+Certainly the volume of information in [Anthropic’s “Misuse of AI”](https://www.anthropic.com/threat-intelligence-report-september-2026) is kind of overwhelming. There’s a lot for Fraud and Risk teams to consider (see what I did there?).
 
 I found the interesting point was that Hugging Face had to use GLM-5.2, an open-source model made by the Chinese lab Zhipu AI (Z.ai) to counter the attack from the Open AI red team - as US models’ guardrails could not tell the difference between a malicious actor and a defender resolving the exploit.
 
@@ -29,9 +29,8 @@ Curing cancer versus chemical warfare.
 
 Opportunity versus risk.
 
-
 [Link to Daily Brief podcast](https://aidailybrief.ai/e/2026-09-14)
 
-[Link to Anthropic’s “misuse of AI”](https://www.anthropic.com/threat-intelligence-report-september-2026)
+
 
 #learningaboutai #aibuzzwords

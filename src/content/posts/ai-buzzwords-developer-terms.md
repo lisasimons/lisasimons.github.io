@@ -1,6 +1,6 @@
 ---
 title: "Developer Terms Gone Mainstream"
-description: "As I learn AI terminology, it is interesting how many developer terms have leaked into everyday AI use."
+description: "It is interesting how many developer terms have leaked into everyday use due to AI."
 pubDatetime: 2026-09-17T09:00:00+10:00
 tags: ["learningaboutai", "aibuzzwords"]
 featured: false

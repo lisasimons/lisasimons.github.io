@@ -1,6 +1,6 @@
 ---
 title: "The Human Sandwich may save us."
-description: "The 'human sandwich' as a simple model for how humans and AI work together."
+description: "The 'human sandwich' as a simple model for how humans might still have work when AI takes over."
 pubDatetime: 2026-09-09T11:00:00+10:00
 tags: ["learningaboutai", "aibuzzwords", "humansandwich"]
 featured: false
@@ -13,7 +13,7 @@ Part of the agenda behind my AI reading is trying to anticipate the risks, and h
 
 But I’m also loving the buzzwords. Especially buzzwords that suggest there is hope for us humans v AI.
 
-Today’s buzzword is "human sandwich" - taken from this article from Every’s CEO, [Dan Shipper](https://every.to/p/after-automation).
+Today’s buzzword is "human sandwich" - taken from [this article](https://every.to/p/after-automation) from Every’s CEO, Dan Shipper.
 
 ![AI buzzwords: Human Sandwich.](../../assets/images/human-sandwich.png)
 

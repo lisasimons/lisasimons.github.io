@@ -1,11 +1,13 @@
 ---
 title: "When is using AI to write OK?"
-description: "After the controversy regarding Druckenmiller’s obviously AI written op ed, I have to ask when is AI-written content  OK?"
+description: "After the controversy regarding Druckenmiller’s obviously AI written op ed, I have to ask when is AI-written content OK?"
 pubDatetime: 2026-09-01T13:00:00+10:00
 tags: ["learningaboutai", "aiwriting"]
 featured: false
 draft: false
 ---
+
+AI Buzzwords: Slop grenade.
 
 I’m working on improving my understanding of AI.
 

@@ -1,6 +1,6 @@
 ---
 title: "Which AI Archetype Are You?"
-description: "Cognizant's research on AI adoption defines 7 types of AI users, based on a study of 10,000 workers."
+description: "Cognizant's research defined 7 types of AI users, based on a study of 10,000 workers."
 pubDatetime: 2026-09-15T09:00:00+10:00
 tags: ["learningaboutai"]
 featured: false

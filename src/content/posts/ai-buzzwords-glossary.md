@@ -46,8 +46,8 @@ AI: Artificial Intelligence. Augmented Intelligence.
 | **Red team** | A group that deliberately attacks a system to find weaknesses before real attackers do. | [Red Teams and Guardrails](/posts/ai-buzzwords-red-teams-and-guardrails/) |
 | **Semantic search** | Searches done by AI models are looking for answers, and search based on meaning and intent, rather than matching keywords (which is what search engines do). | [GEO and Semantic Search](/posts/ai-buzzwords-geo/) |
 | **Shared agents** | Agents accessible to and used by a team, rather than private to one person. | [Multiplayer AI and Shared Agents](/posts/ai-buzzwords-multiplayer-ai/) |
+| **Slop grenade** | Dumping poorly written text on people. | [When is using AI to write OK?](/posts/ai-resonance-pyramid/) |
 | **Slowdown** | Proposals to slow or pause frontier AI development until safety measures catch up. | [Red Teams and Guardrails](/posts/ai-buzzwords-red-teams-and-guardrails/) |
-
 
 ![Buzzword cloud](../../assets/images/ai-buzzwords-glossary.png)
 
