@@ -9,7 +9,7 @@ I’m an expert in Business Analysis practices, having delivered technical requi
 
 I naturally enjoy connecting the dots between products, technology and people.
 
-![Lisa Simons](/images/2026LisaSimons.jpg)
+<img src="/images/2026LisaSimons.jpg" alt="Lisa Simons, Senior Business Analyst, Sydney" style="width: 25%; min-width: 140px; border-radius: 8px;" />
 
 ## About this site
 
