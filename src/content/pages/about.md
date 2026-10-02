@@ -15,14 +15,18 @@ Contact me if you are looking to quickly establish an effective framework and re
 
 I naturally enjoy connecting the dots between products, technology and people.
 
-## What I do
+![Lisa Simons](/images/2026LisaSimons.jpg)
+
+## About this site
+
+This is where I keep notes about ideas I am interested in.## What I do
 
 | Area | In practice |
 |---|---|
-| **Business analysis** | Business, technical and data requirements; Agile Product Owner deliverables; issue, risk and change management; BA team leadership |
-| **Product thinking** | As-is and to-be assessments; product definitions; aligning delivery with strategy |
-| **Information architecture** | Taxonomies; service blueprints; operational design; project frameworks and governance |
-| **Consulting** | Options evaluation; solution proposals; recommendations to senior leadership |
+| **Business analysis** | Business analysis techniques & practices; Agile Product Owner deliverables; Issue, risk and change management; BA team leadership |
+| **Product Thinking** | Product management principles in practice; As-Is and To-Be assessments; Aligning delivery with strategy |
+| **Information Architecture** | Project frameworks and governance; Service blueprints; Operational design; Enterprise standards & workspace design |
+| **Consulting** | Insights and recommendations; Options evaluation; ·      Solution proposals;  |
 
 ## Background
 
@@ -32,11 +36,7 @@ Currently I work as a consultant at Brainmates, where I have worked with product
 
 I hold a Bachelor of Engineering (Honours, Electrical) from UNSW, and a Master of Engineering Management from UTS.
 
-## About this site
-
-This is where I keep notes about ideas I am interested in.
-
-## Get in touch
+### Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/lisasimons/).
 
