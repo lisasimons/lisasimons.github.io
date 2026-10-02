@@ -1,5 +1,5 @@
 ---
-title: "AI Buzzwords: Red Teams and Guardrails"
+title: "Red Teams and Guardrails"
 description: "Frontier, slowdown, red teams and agent swarms: treading the path between AI risk and opportunity."
 ogImage: "../../assets/images/path-between-bad-and-good.png"
 pubDatetime: 2026-09-18T09:00:00+10:00
@@ -8,7 +8,7 @@ featured: false
 draft: false
 ---
 
-AI buzzwords: frontier, slowdown, ladder-pulling, red team, agent swarms, Generative Threat Groups (GTGs).
+AI buzzwords: Frontier labs. Frontier models. Slowdown. Ladder-pulling. Red team. Agent swarms. Generative Threat Groups (GTGs).
 
 Having worked with enterprises and in payments for many years, one source of childish joy for me is when the terms “fraud” and “risk” are used instead of ANTI-fraud and risk MITIGATION.
 
@@ -28,9 +28,9 @@ Curing cancer versus chemical warfare.
 
 Opportunity versus risk.
 
+
+[Link to Daily Brief podcast](https://aidailybrief.ai/e/2026-09-14)
+
+[Link to Anthropic’s “misuse of AI”](https://www.anthropic.com/threat-intelligence-report-september-2026)
+
 #learningaboutai #aibuzzwords
-
-
-Links to Daily Brief podcast: https://aidailybrief.ai/e/2026-09-14
-
-Link to Anthropic’s “misuse of AI”: https://www.anthropic.com/threat-intelligence-report-september-2026

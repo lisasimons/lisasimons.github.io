@@ -1,18 +1,20 @@
 ---
 title: "AI Buzzwords: Fun AI"
-description: "AI buzzwords: Efficiency AI, Opportunity AI."
-ogImage: "../../assets/images/fun-ai.png"
+description: "AI doesn't have a sense of humour or fun. Should it?"
 pubDatetime: 2026-09-25T09:00:00+10:00
 tags: ["aibuzzwords"]
 featured: false
 draft: false
 ---
 
-There is already: Efficiency AI and Opportunity AI.
+AI buzzwords: Efficiency AI, Opportunity AI.
+
+There is already: Efficiency AI and Opportunity AI. 
+
+I propose a new buzzword: Fun AI.
 
 ![AI buzzwords: Efficiency AI, Opportunity AI. Fun AI.](../../assets/images/fun-ai.png)
 
-I propose a new buzzword: Fun AI.
 
 <div style="position:relative;padding-bottom:56.25%;height:0;margin:1.5rem 0">
   <iframe src="https://www.youtube-nocookie.com/embed/b34vwOWLDXI"

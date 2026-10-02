@@ -8,7 +8,7 @@ featured: false
 draft: false
 ---
 
-AI buzzwords: Consumer AI, GEO, semantic search, agent-assisted buying.
+AI buzzwords: Consumer AI. GEO. Semantic search. Agent-assisted buying.
 
 I did a detour into the whole concept of there now being 2 types of website searches. Websites can now appear in:
 1. Traditional search engine results (built around keywords), and
@@ -33,6 +33,6 @@ Related ideas that I kind of knew, but didnt think about the implications of:
 - Zero-click searches. If the AI response has the answer, 93% of readers don’t click on the link to the site. -> So how does this impact the sales funnel?
 - The words I enter in an AI prompt are different to what I enter into a search engine. -> I’ve been a Keyword Engineer for many years. 😊
 
-#learningaboutai #aibuzzwords
+[Luminary's WTF is GEO guide](https://www.luminary.com/blog/generative-engine-optimisation-geo-guide)
 
-Link to Luminary's WTF is GEO guide: https://www.luminary.com/blog/generative-engine-optimisation-geo-guide
+#learningaboutai #aibuzzwords

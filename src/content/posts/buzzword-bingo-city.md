@@ -1,11 +1,13 @@
 ---
 title: "Buzzword Bingo City"
-description: "From prompt engineering to graph engineering: keeping up with the AI vocabulary as a knowledge worker."
+description: "Learning all the new AI buzzwords is hard. And confusing."
 pubDatetime: 2026-09-11T10:00:00+10:00
 tags: ["learningaboutai", "aibuzzwords"]
 featured: false
 draft: false
 ---
+
+AI Buzzwords: Knowledge worker. Models. Tokens. Prompts. Memory. Context.
 
 As a "knowledge worker" I feel like this word cloud is an accurate representation of my brain at the moment. Buzzword bingo city.
 
@@ -15,5 +17,6 @@ I do wonder how the war between the "infinite backlog" of possibilities and the 
 
 The speed at which we've moved from "prompt engineering" to "context engineering" to "harness engineering" to "loop engineering" to "graph engineering" is just incredible.
 
-It's hard enough to keep up, let alone to try and guess where this wild ride will end.  
+It's hard enough to keep up, let alone to try and guess where this wild ride will end. 
+
 #learningaboutai #aibuzzwords

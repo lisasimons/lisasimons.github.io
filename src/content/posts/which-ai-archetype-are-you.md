@@ -18,6 +18,6 @@ I think I’m a Navigator / Pragmatist - keen, but scared I will break something
 Which AI archetype are you?
 
 
-Link to Cognizant research: https://uat.cognizant.com/en_us/aem-i/document/ai-adoption-in-workplace/cognizant-new-frontiers-new-frictions-mapping-dna-ai-adoption.pdf
+[Link to Cognizant research](https://uat.cognizant.com/en_us/aem-i/document/ai-adoption-in-workplace/cognizant-new-frontiers-new-frictions-mapping-dna-ai-adoption.pdf)
 
 #learningaboutai

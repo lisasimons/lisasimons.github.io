@@ -21,7 +21,7 @@ A running glossary of the AI buzzwords from my #aibuzzwords posts, with a short 
 | **Efficiency AI** | AI used to do existing work faster or more cheaply. | [AI Buzzwords: Fun AI](/posts/ai-buzzwords-fun-ai/) |
 | **Existential risk** | The risk that advanced AI could cause human extinction or permanently curtail humanity's future. | [AI Buzzwords: Existential Risk](/posts/ai-buzzwords-existential-risk/) |
 | **Frontier** | The most capable AI models currently available, and the labs building them. | [AI Buzzwords: Red Teams and Guardrails](/posts/ai-buzzwords-red-teams-and-guardrails/) |
-| **Fun AI** | My proposed buzzword: AI used for enjoyment, creativity and play. | [AI Buzzwords: Fun AI](/posts/ai-buzzwords-fun-ai/) |
+| **Fun AI** | My proposed buzzword: AI used for humour and satire. | [AI Buzzwords: Fun AI](/posts/ai-buzzwords-fun-ai/) |
 | **Generative Threat Groups (GTGs)** | Threat actors that use generative AI in their operations. | [AI Buzzwords: Red Teams and Guardrails](/posts/ai-buzzwords-red-teams-and-guardrails/) |
 | **GEO** | Generative engine optimisation: making content appear in AI-generated answers, the AI equivalent of SEO. | [AI Buzzwords: GEO and Semantic Search](/posts/ai-buzzwords-geo/) |
 | **Hooks** | Scripts that run automatically at set points in a workflow, such as before an agent edits a file. | [AI Buzzwords: Developer Terms Gone Mainstream](/posts/ai-buzzwords-developer-terms/) |

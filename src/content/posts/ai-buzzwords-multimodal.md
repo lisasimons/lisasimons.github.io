@@ -1,13 +1,13 @@
 ---
-title: "AI Buzzwords: Multimodal and Image-to-Text"
-description: "Testing ChatGPT and Claude on converting a handwritten note into text and a diagram."
+title: "Ingesting handwritten notes and diagrams"
+description: "I had a go at testing converting a handwritten note into text and a diagram."
 pubDatetime: 2026-09-24T09:00:00+10:00
 tags: ["learningaboutai", "aibuzzwords"]
 featured: false
 draft: false
 ---
 
-AI buzzwords: Multimodal, image-to-text, ChatGPT Image.
+AI buzzwords: Multimodal. Image-to-text. ChatGPT Image.
 
 I can't foresee a time when I stop writing notes, and instead use speech-to-text. However, I can see myself uploading and converting my notebook pages using image-to-text. 
 
@@ -25,7 +25,8 @@ As an experiment, I uploaded a note (with superfluous cats) into ChatGPT and Cla
 
 It is incredible to me how well ChatGPT Image interprets my cursive scrawl - AND creates diagrams that bring me joy.
 
-Link to why writing by hand helps: https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/  
-Did you know there are different cursive writing rules per state? https://primarium.info/countries/australia/
+[Link to why writing by hand helps](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/) 
+
+[Did you know there are different cursive writing rules per state?](https://primarium.info/countries/australia/)
 
 #learningaboutai #aibuzzwords

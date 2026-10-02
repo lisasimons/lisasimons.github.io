@@ -1,27 +1,21 @@
 ---
 title: "5 Rules for Better AI Writing from AIDB"
-description: "AI Buzzwords: AI Writing"
-ogImage: "../../assets/images/5-rules-ai-writing.png"
+description: "As a knowledge worker, I am looking for principles for when it is acceptable to use AI to write."
 pubDatetime: 2026-09-02T12:00:00+10:00
 tags: ["learningaboutai", "aiwriting"]
 featured: false
 draft: false
 ---
 
-I enjoy listening to The AI Daily Brief [https://www.linkedin.com/company/aidailybrief/]. It doesn’t feel like homework.
+AI Buzzwords: AI Writing.
+
+I enjoy listening to [The AI Daily Brief](https://www.linkedin.com/company/aidailybrief/). 
+
+It doesn’t feel like homework.
 
 The ‘5 rules for better ai writing’ episode is particularly interesting to me as a BA.
 
-> Rule 1: Different types of writing, different types of rules
-
-> Rule 2: The purity test will die. The quality test won't.
-
-> Rule 3: Quality reads as effort — and lack of effort is obvious
-
-> Rule 4: Longer is not better — usually the opposite
-
-> Rule 5: Writing is thinking — and outsourcing it is the constant risk
-
+![AI buzzwords: AI Writing.](../../assets/images/5-rules-ai-writing.png)
 
 Rule 5 has always been my reasoning behind writing documents that no one wants to read.
 
@@ -29,7 +23,7 @@ My other solution is creating diagrams (pictures) as much as possible instead of
 
 I do wonder what the AI approach to model diagrams is?
 
+
+[Link to The Daily Brief](https://aidailybrief.ai/e/2026-08-26).
+
 #learningaboutai #aiwriting
-
-
-Link to The Daily Brief: https://aidailybrief.ai/e/2026-08-26
