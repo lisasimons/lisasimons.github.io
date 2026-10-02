@@ -1,7 +1,7 @@
 ---
-title: "A Model for When AI Writing Is Permissible"
+title: "When is using AI to write OK?"
 description: "Tayla Burrell's AI Resonance Pyramid as a model for when AI-written content is acceptable."
-pubDatetime: 2026-10-01T13:00:00+10:00
+pubDatetime: 2026-09-01T13:00:00+10:00
 tags: ["learningaboutai", "aiwriting"]
 featured: false
 draft: false

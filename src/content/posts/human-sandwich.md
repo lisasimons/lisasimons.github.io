@@ -1,7 +1,7 @@
 ---
 title: "Today's AI Buzzword: Human Sandwich"
 description: "The 'human sandwich' as a simple model for how humans and AI work together."
-pubDatetime: 2026-10-01T11:00:00+10:00
+pubDatetime: 2026-09-10T11:00:00+10:00
 tags: ["learningaboutai", "aibuzzwords", "humansandwich"]
 featured: false
 draft: false

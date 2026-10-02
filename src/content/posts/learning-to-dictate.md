@@ -1,7 +1,7 @@
 ---
-title: "Learning to Think Out Loud with Dictation"
+title: "Thinking Out Loud with Dictation is Hard"
 description: "What switching from written notes to dictation revealed about how a visual thinker works."
-pubDatetime: 2026-10-01T09:00:00+10:00
+pubDatetime: 2026-09-12T09:00:00+10:00
 tags: ["learningaboutai", "aidictation"]
 featured: false
 draft: false

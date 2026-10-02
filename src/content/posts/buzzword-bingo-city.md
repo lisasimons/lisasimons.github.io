@@ -1,7 +1,7 @@
 ---
 title: "Buzzword Bingo City"
 description: "From prompt engineering to graph engineering: keeping up with the AI vocabulary as a knowledge worker."
-pubDatetime: 2026-10-01T10:00:00+10:00
+pubDatetime: 2026-09-11T10:00:00+10:00
 tags: ["learningaboutai", "aibuzzwords"]
 featured: false
 draft: false
