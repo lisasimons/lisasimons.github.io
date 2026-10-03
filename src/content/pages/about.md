@@ -40,6 +40,6 @@ I hold a Bachelor of Engineering (Honours, Electrical) from UNSW, and a Master o
 From engineering, I moved into Business Analysis for technology projects, and ended up leading analyst teams in Sydney and London.
 
 ### Get in touch
-Contact me if you are looking to quickly establish an effective framework and requirements that enable your delivery teams to implement products that meet customer and user needs.
+Contact me if you are looking to quickly establish an effective framework and requirements that enable your delivery teams to implement products that deliver business value, and meet customer and user needs.
 [LinkedIn](https://www.linkedin.com/in/lisasimons/).
 

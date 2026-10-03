@@ -2,7 +2,7 @@
 title: "Ingesting handwritten notes and diagrams"
 description: "I had a go at testing converting a handwritten note into text and a diagram."
 pubDatetime: 2026-09-24T09:00:00+10:00
-tags: ["learningaboutai", "aibuzzwords"]
+tags: ["learningaboutai", "aibuzzwords","experimentingusingai"]
 featured: false
 draft: false
 ---
