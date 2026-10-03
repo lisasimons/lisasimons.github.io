@@ -18,12 +18,15 @@ Findings:
     then I followed a Github Pages tutorial.
 
 2) Claude was the game changer.
-    When I had errors, Claude gave me the exact text to copy and paste. 
+    When I had errors, Claude gave me the exact text to copy and paste.
+   
     ⛔ Google Search = gives you an old forum entry from 5 years ago.
 
-3) Claude isn't perfect.
+4) Claude isn't perfect.
     It did tell me to update the wrong file. So when I got an error, it said:
+   
 >   2. Youre editing the wrong file, because my earlier instructions were for an older version
+   
     Then it had to talk me through restoring the old version of the file.
 
 5) I'm not sure how you would go without software experience.
