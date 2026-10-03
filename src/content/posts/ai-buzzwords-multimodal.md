@@ -9,7 +9,7 @@ draft: false
 
 AI buzzwords: Multimodal. Image-to-text. ChatGPT Image.
 
-## Experiments in using AI:    #2 Ingesting notes and diagrams 
+### Experiments in using AI:    #2 Ingesting notes and diagrams 
 
 I can't foresee a time when I stop writing notes, and instead use speech-to-text. 
 
