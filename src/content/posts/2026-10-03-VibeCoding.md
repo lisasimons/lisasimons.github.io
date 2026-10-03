@@ -9,7 +9,7 @@ draft: false
 
 AI buzzwords: Vibe coding. GitHub.
 
-## Experiments in using AI: #2 Vibe Coding
+#### Experiments in using AI: #2 Vibe Coding
 
 The experiment: What's all this vibe coding about anyway?
 
