@@ -20,10 +20,10 @@ This is where I keep notes about ideas I am interested in.
 
 | Area | In practice |
 |---|---|
-| **Business analysis** | Business analysis techniques & practices; Agile Product Owner deliverables; Issue, risk and change management; BA team leadership |
-| **Product Thinking** | Product management principles in practice; As-Is and To-Be assessments; Aligning delivery with strategy |
-| **Information Architecture** | Project frameworks and governance; Service blueprints; Operational design; Enterprise standards & workspace design |
-| **Consulting** | Insights and recommendations; Options evaluation; ·      Solution proposals;  |
+| **Business analysis** | · Business analysis techniques & practices · Agile Product Owner deliverables · Issue, risk and change management · BA team leadership |
+| **Product Thinking** | · Product management principles in practice · As-Is and To-Be assessments · Aligning delivery with strategy |
+| **Information Architecture** | · Project frameworks and governance · Service blueprints · Operational design · Enterprise standards & workspace design |
+| **Consulting** | · Insights and recommendations · Options evaluation · Solution proposals  |
 
 My specialty is in adapting deliverables for enterprise-level projects to ensure business and product objectives are met. 
 
@@ -32,7 +32,6 @@ I have deep domain knowledge in Australian payments, in particular the NPP schem
 ## Background
 
 Currently I work as a consultant at Brainmates, where I have worked with product managers across a broad portfolio of projects in a variety of industries, including: payments, banking, education, contact centres, and government.
-
 
 I started as an electrical engineer in control systems.
 I hold a Bachelor of Engineering (Honours, Electrical) from UNSW, and a Master of Engineering Management from UTS.
