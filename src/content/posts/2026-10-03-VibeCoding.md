@@ -1,7 +1,7 @@
 ---
 title: "Vibe Coding"
 description: "It is interesting how many developer terms have leaked into everyday use due to AI."
-pubDatetime: 2026-10-02 T09:00:00+10:00
+pubDatetime: 2026-10-02T09:00:00+10:00
 tags: ["learningaboutai", "aibuzzwords", "experimentsusingai"]
 featured: false
 draft: false
@@ -22,8 +22,8 @@ Findings:
     ⛔ Google Search = gives you an old forum entry from 5 years ago.
 
 3) Claude isn't perfect.
-    It did tell me to update the wrong file. So when I got an error, it said: 
-> 2. Youre editing the wrong file, because my earlier instructions were for an older version
+    It did tell me to update the wrong file. So when I got an error, it said:
+>   2. Youre editing the wrong file, because my earlier instructions were for an older version
     Then it had to talk me through restoring the old version of the file.
 
 5) I'm not sure how you would go without software experience.
