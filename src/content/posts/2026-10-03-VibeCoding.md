@@ -1,6 +1,6 @@
 ---
 title: "Vibe Coding"
-description: "It is interesting how many developer terms have leaked into everyday use due to AI."
+description: "On a rainy day in Sydney, I tried out vibe coding using Github and Claude (pro)."
 pubDatetime: 2026-10-02T09:00:00+10:00
 tags: ["learningaboutai", "aibuzzwords", "experimentsusingai"]
 featured: false
@@ -10,7 +10,7 @@ AI buzzwords: Vibe coding. Github.
 
 ##Experiments in using AI:    #2 Vibe Coding
 
-So on a rainy day in Sydney, I tried out vibe coding using Github and Claude (pro).
+The experiment: What's all this vibe coding about anyway?
 
 Findings:
 1) It took about 2 hours.
