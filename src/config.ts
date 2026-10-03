@@ -8,41 +8,36 @@ import userConfig from "@/astro-paper.config";
 import type { ResolvedAstroPaperConfig } from "./types/config";
 import { PUBLIC_GOOGLE_SITE_VERIFICATION } from "astro:env/client";
 
-const DEFAULT_OG_IMAGE = "astropaper-og.jpg";
+const DEFAULT_OG_IMAGE = "default-og.jpg";
 
 const config: ResolvedAstroPaperConfig = {
   site: {
-    website: "https://lisasimons.github.io/",          
-    author: "Lisa Simons",                              
-    profile: "https://www.linkedin.com/in/lisasimons",  
-    desc: "Lisa Simons – Senior Business Analyst in Sydney. Consultant at Brainmates.", 
-    title: "Lisa Simons | Senior Business Analyst", 
-    ogImage: DEFAULT_OG_IMAGE,
-    dynamicOgImage: true,
-    lang: "en",
-    timezone: "Australia/Sydney",
-    dir: "ltr",
+    ...userConfig.site,
+    ogImage: userConfig.site.ogImage ?? DEFAULT_OG_IMAGE,
+    lang: userConfig.site.lang ?? "en",
+    timezone: userConfig.site.timezone ?? "Australia/Sydney",
+    dir: userConfig.site.dir ?? "ltr",
     googleVerification:
       userConfig.site.googleVerification || PUBLIC_GOOGLE_SITE_VERIFICATION,
   },
   posts: {
     perPage: 4,
     perIndex: 4,
-    scheduledPostMargin:15 * 60 * 1000,
+    scheduledPostMargin:
+      userConfig.posts?.scheduledPostMargin ?? 15 * 60 * 1000,
   },
   features: {
     lightAndDarkMode: true,
-        showArchives: true,
-    showBackButton: true,
-    editPost: {
-    enabled: false,                                   // see below
-    text: "Edit page",
-    url: "https://github.com/lisasimons/lisasimons.github.io/edit/main/",
+    dynamicOgImage:  true,
+    showArchives:  true,
+    showBackButton:  true,
+    editPost: userConfig.features?.editPost ?? { enabled: false },
+    search: userConfig.features?.search ?? "pagefind",
   },
-    search: "pagefind",
-  },
-  socials: "https://www.linkedin.com/in/lisasimons",
-  shareLinks: u"https://www.linkedin.com/in/lisasimons",
+  socials: userConfig.socials ?? [],
+  shareLinks: userConfig.shareLinks ?? [],
 };
 
 export default config;
+
+ 
