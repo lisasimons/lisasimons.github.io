@@ -9,6 +9,8 @@ draft: false
 
 AI buzzwords: Multimodal. Image-to-text. ChatGPT Image.
 
+##Experiments in using AI:    #2 Ingesting notes and diagrams 
+
 I can't foresee a time when I stop writing notes, and instead use speech-to-text. However, I can see myself uploading and converting my notebook pages using image-to-text. 
 
 As an experiment, I uploaded a note (with superfluous cats) into ChatGPT and Claude.
