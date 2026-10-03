@@ -22,5 +22,3 @@ Reading [this Psychology Today article](https://www.psychologytoday.com/au/blog/
 > Given the “Paradox of Choice”, how do we make good choices that feel satisfying?
 
 > With the tempting ease of AI generation, how do we enable the innovation, and ingenuity, and the sheer wonderful messiness, and FUN of being human?
-
-#learningaboutai #aibuzzwords
