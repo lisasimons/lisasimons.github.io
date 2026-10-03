@@ -12,29 +12,36 @@ const DEFAULT_OG_IMAGE = "default-og.jpg";
 
 const config: ResolvedAstroPaperConfig = {
   site: {
-    ...userConfig.site,
-    ogImage: userConfig.site.ogImage ?? DEFAULT_OG_IMAGE,
-    lang: userConfig.site.lang ?? "en",
-    timezone: userConfig.site.timezone ?? "UTC",
-    dir: userConfig.site.dir ?? "ltr",
+    website: "https://lisasimons.github.io/",          // changed
+    author: "Lisa Simons",                              // changed
+    profile: "https://www.linkedin.com/in/lisasimons",  // changed
+    desc: "Lisa Simons – Senior Business Analyst in Sydney. Consultant at Brainmates.", // changed
+    title: "Lisa Simons | Senior Business Analyst", // changed
+    ogImage: DEFAULT_OG_IMAGE,
+    lang: "en",
+    timezone: "Australia/Sydney",
+    dir: "ltr",
     googleVerification:
       userConfig.site.googleVerification || PUBLIC_GOOGLE_SITE_VERIFICATION,
   },
   posts: {
-    perPage: userConfig.posts?.perPage ?? 4,
-    perIndex: userConfig.posts?.perIndex ?? 4,
-    scheduledPostMargin:
-      userConfig.posts?.scheduledPostMargin ?? 15 * 60 * 1000,
+    perPage: 10,
+    perIndex: 10,
+    scheduledPostMargin:15 * 60 * 1000,
   },
   features: {
-    lightAndDarkMode: userConfig.features?.lightAndDarkMode ?? true,
-    dynamicOgImage: userConfig.features?.dynamicOgImage ?? true,
-    showArchives: userConfig.features?.showArchives ?? true,
-    showBackButton: userConfig.features?.showBackButton ?? true,
-    editPost: userConfig.features?.editPost ?? { enabled: false },
+    lightAndDarkMode: true,
+    dynamicOgImage: true,
+    showArchives: true,
+    showBackButton: true,
+    editPost: {
+    enabled: false,                                   // see below
+    text: "Edit page",
+    url: "https://github.com/lisasimons/lisasimons.github.io/edit/main/",
+  },
     search: userConfig.features?.search ?? "pagefind",
   },
-  socials: userConfig.socials ?? [],
+  socials: "https://www.linkedin.com/in/lisasimons",
   shareLinks: userConfig.shareLinks ?? [],
 };
 
