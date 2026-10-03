@@ -2,7 +2,7 @@
 title: "Ingesting handwritten notes and diagrams"
 description: "I had a go at testing converting a handwritten note into text and a diagram."
 pubDatetime: 2026-09-24T09:00:00+10:00
-tags: ["learningaboutai", "aibuzzwords","experimentingusingai"]
+tags: ["learningaboutai", "aibuzzwords","experimentsusingai"]
 featured: false
 draft: false
 ---
@@ -32,5 +32,3 @@ It is incredible to me how well ChatGPT Image interprets my cursive scrawl - AND
 [Link to why writing by hand helps](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/) 
 
 [Did you know there are different cursive writing rules per state?](https://primarium.info/countries/australia/)
-
-#learningaboutai #aibuzzwords
