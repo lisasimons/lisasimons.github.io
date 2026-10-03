@@ -1,6 +1,6 @@
 ---
 title: "About Lisa Simons"
-description: "I am a business analyst working with product managers, and this site is my experiment with using AI"
+description: "I am Lisa Simons, a Senior Business Analyst based in Sydney, working on enterprise-level product delivery projects. Consultant in many industries, including payments (NPP, PayTo, cards, eftpos) and education, applying Product Management best practices."
 ---
 
 I'm a Senior Business Analyst consultant based in Sydney.
