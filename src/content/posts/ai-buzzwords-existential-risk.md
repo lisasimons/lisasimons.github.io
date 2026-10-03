@@ -7,7 +7,7 @@ featured: false
 draft: false
 ---
 
-AI buzzwords: Existential Risk. Misalignment. Off-Switch Problem. Paperclip Maximizer. (P)Doom. AI Escape. Recursive Self-Improvement (RSI). Frontier.
+🐝 AI Buzzwords: Existential Risk. Misalignment. Off-Switch Problem. Paperclip Maximizer. (P)Doom. AI Escape. Recursive Self-Improvement (RSI). Frontier.
 
 After [Dario Amodei's](https://www.linkedin.com/in/dario-amodei-b5b8a3267) essay, ["We Must Pace the Frontier"](https://darioamodei.com/post/we-must-pace-the-frontier), 
 and Jacob Coxon being in the news for quitting Anthropic saying people in the industry "earnestly believe that it could kill us all by the end of the decade", and 
@@ -20,4 +20,4 @@ Personally I'm hoping that 'product indemnity' costs, and the sheer number of bi
 
 Certainly I'm not betting on human ethics, cooperation or common sense being the reason we survive.
 
-#learningaboutai #aibuzzwords
+

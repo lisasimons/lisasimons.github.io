@@ -7,7 +7,7 @@ featured: false
 draft: false
 ---
 
-AI Buzzwords: Multiplayer AI. Shared agents. Projects. Human-agent teams.
+🐝 AI Buzzwords: Multiplayer AI. Shared agents. Projects. Human-agent teams.
 
 One thing I like about AI is that it challenges us to question what makes us human. 
 Shared agents are essentially like a new team member. A new person that we build ourselves.
@@ -32,4 +32,4 @@ Looking into multiplayer agents raises questions for me:
 
 [Human-Agent Teams course (in beta, so this stuff is newish)](https://academy.claude.com/courses/building-effective-human-agent-teams)
 
-#learningaboutai #aibuzzwords
+

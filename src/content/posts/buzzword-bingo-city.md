@@ -7,7 +7,7 @@ featured: false
 draft: false
 ---
 
-AI Buzzwords: Knowledge worker. Models. Tokens. Prompts. Memory. Context.
+🐝 AI Buzzwords: Knowledge worker. Models. Tokens. Prompts. Memory. Context.
 
 As a "knowledge worker" I feel like this word cloud is an accurate representation of my brain at the moment. Buzzword bingo city.
 
@@ -19,4 +19,4 @@ The speed at which we've moved from "prompt engineering" to "context engineering
 
 It's hard enough to keep up, let alone to try and guess where this wild ride will end. 
 
-#learningaboutai #aibuzzwords
+

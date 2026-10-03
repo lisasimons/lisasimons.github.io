@@ -2,12 +2,12 @@
 title: "Developer Terms Gone Mainstream"
 description: "It is interesting how many developer terms have leaked into everyday use due to AI."
 pubDatetime: 2026-09-17T09:00:00+10:00
-tags: ["learningaboutai", "aibuzzwords"]
+tags: ["learningaboutai", "aibuzzwords","vibe coding"]
 featured: false
 draft: false
 ---
 
-AI buzzwords: MD files. Linter. PRs. Loops. Hooks. Mermaid diagrams. MCP.  
+🐝 AI Buzzwords: MD files. Linter. PRs. Loops. Hooks. Mermaid diagrams. MCP.  
 
 Category: developer terms that have leaked into common usage with AI
 
@@ -24,4 +24,3 @@ Here's what the Markdown Editor looks like in SharePoint:
 
 There's future improvements in the roadmap including editing and Copilot integration.
 
-#learningaboutai #aibuzzwords

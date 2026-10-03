@@ -7,7 +7,7 @@ featured: false
 draft: false
 ---
 
-AI buzzwords: Efficiency AI, Opportunity AI.
+🐝 AI Buzzwords: Efficiency AI, Opportunity AI.
 
 I propose a new buzzword: Fun AI.
 
@@ -21,5 +21,5 @@ Fun AI wouldn't be so serious. It would bring joy.
     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-#aibuzzwords
+
 

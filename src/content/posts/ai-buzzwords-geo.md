@@ -2,12 +2,12 @@
 title: "GEO and Semantic Search"
 description: "What generative engine optimisation (GEO) means for websites when AI answers replace search results."
 pubDatetime: 2026-09-23T09:00:00+10:00
-tags: ["learningaboutai", "aibuzzwords"]
+tags: ["learningaboutai", "aibuzzwords","GEO"]
 featured: false
 draft: false
 ---
 
-AI buzzwords: Consumer AI. GEO. Semantic search. Agent-assisted buying.
+🐝 AI Buzzwords: Consumer AI. GEO. Semantic search. Agent-assisted buying.
 
 I did a detour into the whole concept of there now being 2 types of website searches. Websites can now appear in:
 1. Traditional search engine results (built around keywords), and
@@ -36,4 +36,4 @@ Related ideas that I kind of knew, but didnt think about the implications of:
 
 [Luminary's WTF is GEO guide](https://www.luminary.com/blog/generative-engine-optimisation-geo-guide)
 
-#learningaboutai #aibuzzwords
+

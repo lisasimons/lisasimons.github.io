@@ -7,7 +7,7 @@ featured: false
 draft: false
 ---
 
-AI Buzzwords: Slop grenade.
+🐝 AI Buzzwords: Slop grenade.
 
 I’m working on improving my understanding of AI.
 
@@ -19,6 +19,6 @@ Law 2 has this "AI Resonance Pyramid", which I reckon is a good model for when A
 
 It explains the controversy around [Druckenmiller’s obviously AI written op ed](https://www.theguardian.com/us-news/2026/aug/25/scott-bessent-stanley-druckenmiller-ai).
 
-#learningaboutai #aiwriting
+
 
 

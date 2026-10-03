@@ -7,10 +7,10 @@ featured: false
 draft: false
 ---
 
-AI Buzzwords: AI Writing. Mermaid diagrams.
+🐝 AI Buzzwords: AI Writing. Mermaid diagrams.
 
 I enjoy listening to [The AI Daily Brief](https://aidailybrief.ai/). It doesn’t feel like homework.
- 
+
 The ‘5 Rules for Better AI Writing’ episode was particularly interesting to me as a BA.
 
 <![The 5 rules for better AI writing, from The AI Daily Brief](../../assets/images/5-rules-ai-writing.png)

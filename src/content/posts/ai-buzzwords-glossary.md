@@ -7,7 +7,7 @@ featured: true
 draft: false
 ---
 
-AI: Artificial Intelligence. Augmented Intelligence.
+🐝 AI: Artificial Intelligence. Augmented Intelligence.
 
 | Buzzword | What it means | Post |
 |---|---|---|
@@ -51,4 +51,4 @@ AI: Artificial Intelligence. Augmented Intelligence.
 
 ![Buzzword cloud](../../assets/images/ai-buzzwords-glossary.png)
 
-#learningaboutai #aibuzzwords
+

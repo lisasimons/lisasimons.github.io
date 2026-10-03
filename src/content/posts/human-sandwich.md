@@ -7,7 +7,7 @@ featured: false
 draft: false
 ---
 
-AI Buzzwords: Human Sandwich.
+🐝 AI Buzzwords: Human Sandwich.
 
 Part of the agenda behind my AI reading is trying to anticipate the risks, and how to mitigate them. Will there will be a job apocalypse?
 
@@ -24,4 +24,4 @@ What I don’t like is that it is a misnomer, and really it should be an “AI s
 
 PS. I like the Human | Agent button at the bottom of the Every window.
 
-#learningaboutai #aibuzzwords 
+

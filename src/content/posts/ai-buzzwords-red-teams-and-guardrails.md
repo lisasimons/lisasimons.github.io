@@ -7,7 +7,7 @@ featured: false
 draft: false
 ---
 
-AI buzzwords: Frontier labs. Frontier models. Slowdown. Ladder-pulling. Red team. Agent swarms. Generative Threat Groups (GTGs).
+🐝 AI Buzzwords: Frontier labs. Frontier models. Slowdown. Ladder-pulling. Red team. Agent swarms. Generative Threat Groups (GTGs).
 
 Having worked with enterprises and in payments for many years, one source of childish joy for me is when the terms “fraud” and “risk” are used instead of ANTI-fraud and risk MITIGATION.
 
@@ -33,4 +33,3 @@ Opportunity versus risk.
 
 
 
-#learningaboutai #aibuzzwords

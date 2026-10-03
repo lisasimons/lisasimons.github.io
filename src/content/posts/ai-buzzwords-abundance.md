@@ -2,12 +2,12 @@
 title: "Abundance and the Infinite Backlog"
 description: "With AI the possibilities now and in the future are quite overwhelming."
 pubDatetime: 2026-09-21T09:00:00+10:00
-tags: ["learningaboutai", "aibuzzwords"]
+tags: ["learningaboutai", "aibuzzwords","abundance"]
 featured: false
 draft: false
 ---
 
-AI buzzwords: Abundance. The infinite backlog. Opportunity AI.
+🐝 AI Buzzwords: Abundance. The infinite backlog. Opportunity AI.
 
 The “blinking cursor” symbolises for me the abundance of information and capabilities that are now at our fingertips (or voice command).
 

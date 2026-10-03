@@ -20,4 +20,4 @@ Which AI archetype are you?
 
 [Link to Cognizant research](https://uat.cognizant.com/en_us/aem-i/document/ai-adoption-in-workplace/cognizant-new-frontiers-new-frictions-mapping-dna-ai-adoption.pdf)
 
-#learningaboutai
+

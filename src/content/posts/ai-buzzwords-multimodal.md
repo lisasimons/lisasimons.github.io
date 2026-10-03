@@ -7,7 +7,7 @@ featured: false
 draft: false
 ---
 
-AI buzzwords: Multimodal. Image-to-text. ChatGPT Image.
+🐝 AI Buzzwords: Multimodal. Optical Character Recognition. Image-to-text. ChatGPT Image.
 
 #### Experiments in using AI:    #1 Ingesting notes and diagrams 
 

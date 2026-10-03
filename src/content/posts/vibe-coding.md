@@ -1,13 +1,13 @@
 ---
 title: "Vibe Coding"
-description: "On a rainy day in Sydney, I tried out vibe coding using Github and Claude (pro)."
+description: "On a rainy day in Sydney, I tried out vibe coding using Github and Claude."
 pubDatetime: 2026-10-02T09:00:00+10:00
-tags: ["learningaboutai", "aibuzzwords", "experimentsusingai"]
+tags: ["learningaboutai", "aibuzzwords", "experimentsusingai","vibe coding"]
 featured: false
 draft: false
 ---
 
-AI buzzwords: Vibe coding. GitHub.
+🐝 AI buzzwords: Vibe coding. GitHub.
 
 #### Experiments in using AI: #2 Vibe Coding
 

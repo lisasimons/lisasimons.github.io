@@ -2,12 +2,12 @@
 title: "Thinking Out Loud with Dictation is Hard"
 description: "Trying to switch from written notes to dictation is hard for me as a visual thinker."
 pubDatetime: 2026-09-11T09:00:00+10:00
-tags: ["learningaboutai", "aibuzzwords"]
+tags: ["learningaboutai", "aibuzzwords", "aidictation"]
 featured: false
 draft: false
 ---
 
-AI Buzzwords: AI Dictation.
+🐝 AI Buzzwords: Automatic Speech Recognition (ASR). Voice-to-text. Transcription.
 
 What really struck me in this week’s [GPT-6 Astra video](https://www.youtube.com/watch?si=JKvPG03dQB0fWkNz&v=1QNsdr-Qx_I&feature=youtu.be) was everyone giving verbal instructions.
 
@@ -27,4 +27,4 @@ Going from a random thought or podcast idea… to deciding what the note should 
 
 ![AI buzzwords: AI Dictation.](../../assets/images/dictation-flow.png)
 
-#learningaboutai #aibuzzwords
+
