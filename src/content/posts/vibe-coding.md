@@ -36,7 +36,6 @@ Findings:
 
 [GitHub Pages tutorial](https://docs.github.com/en/pages/quickstart)
 
-#learningaboutai #experimentsusingai
 
 
 
