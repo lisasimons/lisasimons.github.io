@@ -21,5 +21,3 @@ One thing I try when I reckon noone will read my work is to create diagrams (pic
 I do wonder what the AI approach to model diagrams is? I must look into Mermaid diagrams.
 
 [Link to The Daily Brief](https://aidailybrief.ai/e/2026-08-26).
-
-#learningaboutai #aiwriting
