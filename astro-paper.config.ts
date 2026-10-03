@@ -5,7 +5,7 @@ export default defineAstroPaperConfig({
     url: "https://lisasimons.github.io/",
     title: "Lisa Simons",
     description:
-      "Lisa Simons – Senior Business Analyst specialising in Product Thinking and Information Architecture",
+      "Lisa Simons | Senior Business Analyst at Brainmates | Sydney | Business Analysis, Product Thinking, Information Architecture",
     author: "Lisa Simons",
     profile: "https://www.linkedin.com/in/lisasimons/",
     ogImage: "default-og.jpg",
@@ -14,8 +14,8 @@ export default defineAstroPaperConfig({
     dir: "ltr",
   },
   posts: {
-    perPage: 4,
-    perIndex: 4,
+    perPage: 10,
+    perIndex: 10,
     scheduledPostMargin: 15 * 60 * 1000,
   },
   features: {
@@ -30,6 +30,7 @@ export default defineAstroPaperConfig({
   },
   socials: [
     { name: "linkedin", url: "https://www.linkedin.com/in/lisasimons/" },
+    { name: "github",   url: "https://github.com/lisasimons" },
   ],
   shareLinks: [
     { name: "linkedin", url: "https://www.linkedin.com/sharing/share-offsite/?url=" },
