@@ -16,6 +16,7 @@ I naturally enjoy connecting the dots between products, technology and people.
 This is where I keep notes about ideas I am interested in.
 
 ## What I do
+· Business Analysis · Product Thinking · Information Architecture · Consulting
 
 | Area | In practice |
 |---|---|
