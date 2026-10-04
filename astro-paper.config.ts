@@ -5,7 +5,7 @@ export default defineAstroPaperConfig({
     url: "https://lisasimons.github.io/",
     title: "Lisa Simons",
     description:
-      "Lisa Simons | Senior Business Analyst at Brainmates | Sydney | Business Analysis, Product Thinking, Information Architecture",
+      "Lisa Simons | Senior Business Analyst at Brainmates | Sydney | Business Analysis, Product Management, Information Architecture",
     author: "Lisa Simons",
     profile: "https://www.linkedin.com/in/lisasimons/",
     ogImage: "default-og.jpg",

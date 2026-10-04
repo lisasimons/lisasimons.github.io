@@ -1,5 +1,5 @@
 ---
-title: "Buzzword Bingo City"
+title: "🐝  Buzzword Bingo City"
 description: "Learning all the new AI buzzwords is hard. And confusing."
 pubDatetime: 2026-09-10T10:00:00+10:00
 tags: ["learningaboutai", "aibuzzwords"]

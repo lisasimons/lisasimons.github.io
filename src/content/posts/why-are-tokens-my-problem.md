@@ -7,7 +7,7 @@ featured: false
 draft: false
 ---
 
-AI Buzzwords: Tokens.
+🐝  AI Buzzwords: Tokens.
 
 Pricing models are interesting in terms of their unintended consequences on user behaviour. 
 
