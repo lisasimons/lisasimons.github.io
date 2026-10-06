@@ -42,7 +42,7 @@ draft: false
 | **Loops** | Agent loops: the AI acts, checks the result and tries again until the task is done. | [Developer Terms Gone Mainstream](/posts/ai-buzzwords-developer-terms/) |
 | **MCP** | Model Context Protocol: an open standard for connecting AI models to external tools and data. | [Developer Terms Gone Mainstream](/posts/ai-buzzwords-developer-terms/) |
 | **MD files** | Markdown files: plain text with simple formatting symbols, the default format AI tools read and write. | [Developer Terms Gone Mainstream](/posts/ai-buzzwords-developer-terms/) |
-| **Meat Proxy** | . | [Buzzword Bingo City](/posts/lbuzzword-bingo-city/) |
+| **Meat Proxy** | A fun name for AI. | [Buzzword Bingo City](/posts/lbuzzword-bingo-city/) |
 | **Memory** | Persistent information used by AI. | [Buzzword Bingo City](/posts/lbuzzword-bingo-city/) |
 | **Mermaid Diagrams** | A text-based syntax for drawing diagrams (flowcharts, sequences) that renders as images. | [Developer Terms Gone Mainstream](/posts/ai-buzzwords-developer-terms/) |
 | **Misalignment** | When an AI system pursues goals different from what its designers intended. A euphemism for AI doing unethical, bad things. | [Existential Risk](/posts/ai-buzzwords-existential-risk/) |
