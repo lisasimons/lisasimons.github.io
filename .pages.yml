@@ -1,0 +1,95 @@
+# Pages CMS configuration for lisasimons.github.io (Astro + AstroPaper)
+# Docs: https://pagescms.org/docs/configuration/
+
+# Uploaded images are saved in src/assets/images/ and written into posts
+# as ../../assets/images/<file>, the path Astro needs to find them.
+media:
+  input: src/assets/images
+  output: ../../assets/images
+  categories: [image]
+  rename: safe   # lowercase, hyphens, no spaces
+
+content:
+  - name: posts
+    label: Posts
+    type: collection
+    path: src/content/posts
+    format: yaml-frontmatter
+    subfolders: false
+    filename: "{primary}.md"
+    view:
+      fields: [title, pubDatetime, draft, featured]
+      primary: title
+      sort: [pubDatetime, title]
+      search: [title, description]
+      default:
+        sort: pubDatetime
+        order: desc
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: description
+        label: Description
+        description: One or two sentences. Shown under the title and in Google results.
+        type: text
+        required: true
+      - name: pubDatetime
+        label: Publish date
+        description: Posts dated in the future stay hidden until that date.
+        type: date
+        required: true
+        options:
+          time: true
+          format: "yyyy-MM-dd'T'HH:mm:ssXXX"
+      - name: modDatetime
+        label: Last updated
+        type: date
+        default: ""
+        options:
+          time: true
+          format: "yyyy-MM-dd'T'HH:mm:ssXXX"
+      - name: tags
+        label: Tags
+        description: Lowercase, no spaces (e.g. learningaboutai).
+        type: string
+        list: true
+      - name: featured
+        label: Featured on home page
+        type: boolean
+        default: false
+      - name: draft
+        label: Draft (hidden from site)
+        type: boolean
+        default: false
+      - name: ogImage
+        label: Header and LinkedIn share image
+        description: Optional. Shown at the top of the post and when it is shared.
+        type: image
+      - name: body
+        label: Post
+        type: rich-text
+        options:
+          format: markdown
+          switcher: true
+
+  - name: about
+    label: About page (title and Google description)
+    type: file
+    path: src/content/pages/about.md
+    format: yaml-frontmatter
+    fields:
+      - name: title
+        label: Page title
+        type: string
+        required: true
+      - name: description
+        label: Google description
+        type: text
+      - name: body
+        label: Notes (not shown on the site)
+        description: The About page text itself is in src/pages/about.astro.
+        type: rich-text
+        options:
+          format: markdown
