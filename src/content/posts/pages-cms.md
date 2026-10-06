@@ -1,23 +1,33 @@
 ---
 title: Pages CMS
-description: Installing the Pages CMS app has made adding and editing pages in
+description: Installing the Pages CMS has made adding and editing markdown files in
   my GitHub repository so much easier.
-pubDatetime: 2026-10-0612:00:00
+pubDatetime: 2026-10-06T12:00:00+11:00
 tags:
-  - learningaboutai markdownfiles
+  - learningaboutai
+  - markdownfiles
 featured: false
 draft: false
 ---
-Sure I don't feel like I'm vibe coding anymore. It feels more like a Content Management System.
+Today I continued with my experiment in using AI to build my own workspace in GitHub to 
+a) look for better ways to manage and edit markdown files, and 
+b) share those files with an external party, and 
+c) have the results look professional. 
 
-I did use Claude to setup the pages.yml file in my GitHub repository. So this was AI adjacent.
+From what I understand, markdown files are likely to be a long term new thing that I need to understand and know how to manage as a Knowledge Worker.
 
-Once that was done, in the nice and simple Pages UI, I was able to:
+I still think using SharePoint is easier for dealing with markdown files, but I’ve always found that you have to use these things to find the constraints. 
 
-- See all my pages / markdown files in GitHub, 
-- Edit the files in a nice UI (no more vibe coding!) and
-- Then clicking on Save commits the changes in GitHub.
+Today I installed the Pages CMS on my GitHub, which meant I was able to:
+- See all my markdown files in nice folders (I.e. without all the GitHub coding files),
+- Edit the files in a nice UI (no more vibe coding!), and
+- Click Save (which sends the commit to GitHub).
 
-The objective of this experiment is to look for better ways to manage and edit markdown files. That is why I consider this still part of my AI learning exercise. 
+I still consider this part of my AI learning exercise, as I couldn’t have done any of this without AI.
 
-From what I understand markdown files are likely to be a long term new thing that I need to understand and know how to manage as a Knowledge Worker.
+I needed Claude to help me setup the `.pages.yml` file in my GitHub repository. 
+
+Since getting Pages CMS working, I have found myself switching between GitHub, Pages CMS and Claude, as I play around with the settings. Claude continues to help me out whenever I break things.
+
+My next step is to see if I can get my GitHub site looking significantly better than a SharePoint view of a markdown file. 
+If I can make that happen then maybe GitHub is worth the faff.
