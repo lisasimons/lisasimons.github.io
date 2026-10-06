@@ -2,7 +2,7 @@
 title: Pages CMS
 description: Installing the Pages CMS app has made adding and editing pages in
   my GitHub repository so much easier.
-pubDatetime: 2026-10-06T15:40:00Z
+pubDatetime: 2026-10-06T09:40:00Z
 tags:
   - learningaboutai markdownfiles
 featured: false
