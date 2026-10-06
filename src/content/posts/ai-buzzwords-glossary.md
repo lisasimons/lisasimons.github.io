@@ -1,23 +1,27 @@
 ---
-title: "🐝  AI Buzzwords Glossary"
-description: "A running glossary of AI buzzwords, from my #aibuzzwords posts, with a short meaning for each and a link to the post where it came up"
-pubDatetime: 2026-09-28T09:00:00+10:00
-tags: ["learningaboutai", "aibuzzwords"]
+title: 🐝  AI Buzzwords Glossary
+description: "A running glossary of AI buzzwords, from my #aibuzzwords posts,
+  with a short meaning for each and a link to the post where it came up"
+pubDatetime: 2026-09-27T23:00:00Z
+tags:
+  - learningaboutai
+  - aibuzzwords
 featured: true
 draft: false
 ---
-
 🐝 AI: Artificial Intelligence. Augmented Intelligence.
 
+
 | Buzzword | What it means | Post |
-|---|---|---|
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
 | **Abundance** | The idea that AI makes content, code and capability near-unlimited and cheap. | [Abundance and the Infinite Backlog](/posts/ai-buzzwords-abundance/) |
 | **Agent swarms** | Many AI agents working in parallel or coordinating on a single task. | [Red Teams and Guardrails](/posts/ai-buzzwords-red-teams-and-guardrails/) |
-| **Agent-assisted buying** | AI agents researching, comparing or purchasing on a customer's behalf. |  [GEO and Semantic Search](/posts/ai-buzzwords-geo/) |
+| **Agent-assisted buying** | AI agents researching, comparing or purchasing on a customer's behalf. | [GEO and Semantic Search](/posts/ai-buzzwords-geo/) |
 | **AI escape** | An AI copying itself out of its controlled environment or evading human oversight. | [Existential Risk](/posts/ai-buzzwords-existential-risk/) |
 | **AI Writing** | Content and formatting conventions typical of AI-generated content. | [5 Rules for Better AI Writing](/posts/5-rules-for-better-ai-writing/) |
 | **Automatic Speech Recognition (ASR)** | Technology that converts spoken language into machine-readable written text. | [Thinking Out Loud with Dictation is Hard](/posts/learning-to-dictate/) |
 | **ChatGPT Image** | OpenAI's image generation and editing capability within ChatGPT. | [Ingesting handwritten notes and diagrams](/posts/ai-buzzwords-multimodal/) |
+| **Claudish** | . | [5 Rules for Better AI Writing](/posts/5-rules-for-better-ai-writing/) |
 | **Consumer AI** | AI products used by the general public for personal activities. | [GEO and Semantic Search](/posts/ai-buzzwords-geo/) |
 | **Context** | The background data, past interactions and rules given to an AI model. | [Buzzword Bingo City](/posts/buzzword-bingo-city/) |
 | **Efficiency AI** | AI used to do existing work faster or more cheaply. | [Will there ever be Fun AI?](/posts/ai-buzzwords-fun-ai/) |
@@ -38,6 +42,7 @@ draft: false
 | **Loops** | Agent loops: the AI acts, checks the result and tries again until the task is done. | [Developer Terms Gone Mainstream](/posts/ai-buzzwords-developer-terms/) |
 | **MCP** | Model Context Protocol: an open standard for connecting AI models to external tools and data. | [Developer Terms Gone Mainstream](/posts/ai-buzzwords-developer-terms/) |
 | **MD files** | Markdown files: plain text with simple formatting symbols, the default format AI tools read and write. | [Developer Terms Gone Mainstream](/posts/ai-buzzwords-developer-terms/) |
+| **Meat Proxy** | . | [Buzzword Bingo City](/posts/lbuzzword-bingo-city/) |
 | **Memory** | Persistent information used by AI. | [Buzzword Bingo City](/posts/lbuzzword-bingo-city/) |
 | **Mermaid Diagrams** | A text-based syntax for drawing diagrams (flowcharts, sequences) that renders as images. | [Developer Terms Gone Mainstream](/posts/ai-buzzwords-developer-terms/) |
 | **Misalignment** | When an AI system pursues goals different from what its designers intended. A euphemism for AI doing unethical, bad things. | [Existential Risk](/posts/ai-buzzwords-existential-risk/) |
@@ -63,6 +68,6 @@ draft: false
 | **Vibe Coding** | AI-assisted software development where a person builds the applications using the code the AI provides in response to prompts the person provides. | [Vibe Coding](/posts/vibe-coding/) |
 | **Voice-to-text** | Converting spoken words into written text. | [Thinking Out Loud with Dictation is Hard](/posts/learning-to-dictate/) |
 
-![Buzzword cloud](../../assets/images/ai-buzzwords-glossary.png)
 
+![Buzzword cloud](../../assets/images/ai-buzzwords-glossary.png)
 
