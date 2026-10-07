@@ -5,6 +5,8 @@ pubDatetime: 2026-10-06T09:00:00Z
 featured: false
 draft: false
 ---
+🐝 AI Buzzwords: Markdown files.
+
 I was hoping that Markdown files would become obsolete as AI advanced, so I had avoided learning about them.
 
 But, I now think, as a Knowledge Worker, I need to find reasonable solutions to: 
