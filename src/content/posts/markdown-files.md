@@ -20,3 +20,5 @@ c) Present Markdown files in a professional manner.
 
 
 At the moment, I still think using SharePoint is easiest for dealing with Markdown files.
+
+![SharePoint Markdown File view](../../assets/images/sharepoint-markdownview.jpg)
