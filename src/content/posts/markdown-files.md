@@ -5,7 +5,11 @@ pubDatetime: 2026-10-06T09:00:00Z
 featured: false
 draft: false
 ---
-As a Knowledge Worker, I am experimenting with better ways to: 
+I know there is a small risk that the Markdown files trend will end. I'm no expert so I don't really know.
+
+![My Markdown Files post as raw text and as a rendered page](../../assets/images/markdown-raw-vs-rendered.svg)
+
+For now anyway, I think as a Knowledge Worker, I need to explore what options are available to: 
 
 a) View, manage and edit Markdown files, and 
 
@@ -13,22 +17,10 @@ b) Share Markdown files with external parties, and
 
 c) Present Markdown files in a professional manner. 
 
+
+
+My next step is to see if I can get presentation-style content working in my GitHub site using these Markdown files.
+
+If I can make that happen then maybe having a GitHub is worth the faff. 
+
 At the moment, I still think using SharePoint is easiest for dealing with Markdown files.
-
-
-
-Today I continued with my experiment in using AI to build my own workspace in GitHub to 
-
-a) Look for better ways to manage and edit Markdown files, and 
-
-b) Share those Markdown files with an external party, and 
-
-c) Have the results look professional. 
-
-I know Markdown files have been pushed are likely to be a long term new thing that I need to understand and know how to manage as a Knowledge Worker.
-
-I still think using SharePoint is easier for dealing with markdown files, but I’ve always found that you have to use these things to find the constraints. 
-
-My next step is to see if I can get my GitHub site looking significantly better than a SharePoint view of a markdown file. 
-
-If I can make that happen then maybe GitHub is worth the faff.
