@@ -1,15 +1,13 @@
 ---
 title: Markdown Files
-description: Markdown has become the default format of text from AI models.
+description: Markdown is currently the default format of text from AI models.
 pubDatetime: 2026-10-06T09:00:00Z
 featured: false
 draft: false
 ---
-I know there is a small risk that the Markdown files trend will end. I'm no expert so I don't really know.
+I was hoping that Markdown files would become obsolete as AI advanced, so I had avoided learning about them.
 
-![My Markdown Files post as raw text and as a rendered page](../../assets/images/markdown-raw-vs-rendered.svg)
-
-For now anyway, I think as a Knowledge Worker, I need to explore what options are available to: 
+But, I now think, as a Knowledge Worker, I need to find reasonable solutions to: 
 
 a) View, manage and edit Markdown files, and 
 
@@ -17,8 +15,12 @@ b) Share Markdown files with external parties, and
 
 c) Present Markdown files in a professional manner. 
 
+I have used this [Markdown Guide: Basic Syntax page]([https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)) to add links and images in the Markdown files (both in SharePoint and GitHub).
 
+![My Markdown Files post as raw text and as a rendered page](../../assets/images/markdown-raw-vs-rendered.svg)
 
-At the moment, I still think using SharePoint is easiest for dealing with Markdown files.
+At the moment, I still think using SharePoint is easiest for saving, creating, editing and sharing Markdown files.
 
 ![SharePoint Markdown File view](../../assets/images/sharepoint-markdownview.jpg)
+
+However, the last step of my experiment - presenting Markdown files - may be where the customisation available in GitHub beats the constraints of SharePoint.
