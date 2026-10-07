@@ -19,8 +19,4 @@ c) Present Markdown files in a professional manner.
 
 
 
-My next step is to see if I can get presentation-style content working in my GitHub site using these Markdown files.
-
-If I can make that happen then maybe having a GitHub is worth the faff. 
-
 At the moment, I still think using SharePoint is easiest for dealing with Markdown files.
