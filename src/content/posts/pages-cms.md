@@ -1,8 +1,8 @@
 ---
 title: Pages CMS
-description: Installing the Pages CMS has made adding and editing markdown files in
-  my GitHub repository so much easier.
-pubDatetime: 2026-10-06T12:00:00+11:00
+description: Installing the Pages CMS has made adding and editing markdown files
+  in my GitHub repository so much easier.
+pubDatetime: 2026-10-06T01:00:00Z
 tags:
   - learningaboutai
   - markdownfiles
@@ -19,9 +19,18 @@ From what I understand, markdown files are likely to be a long term new thing th
 I still think using SharePoint is easier for dealing with markdown files, but I’ve always found that you have to use these things to find the constraints. 
 
 Today I installed the Pages CMS on my GitHub, which meant I was able to:
+
 - See all my markdown files in nice folders (I.e. without all the GitHub coding files),
+
+![A Markdown file's frontmatter and body mapped to Pages CMS form fields](../../assets/images/pages-cms-same-file-two-views.svg)
+
 - Edit the files in a nice UI (no more vibe coding!), and
+
+![Editing before and after Pages CMS](../../assets/images/pages-cms-before-after.svg)
+
 - Click Save (which sends the commit to GitHub).
+
+![How Pages CMS fits between me, GitHub and the live site](../../assets/images/pages-cms-how-it-fits.svg)
 
 I still consider this part of my AI learning exercise, as I couldn’t have done any of this without AI.
 
