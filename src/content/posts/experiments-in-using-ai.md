@@ -3,7 +3,7 @@ title: Experiments in using AI
 description: "My AI experimentation has taken a messy turn as I mix up two
   different objectives: 1) to increase the likelihood of appearing in AI answers
   (GEO), and 2) to have a better solution for dealing with Markdown files."
-pubDatetime: 2026-10-07T09:00:00Z
+pubDatetime: 2026-10-05T09:00:00Z
 featured: false
 draft: false
 ---
