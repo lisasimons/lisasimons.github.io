@@ -9,33 +9,23 @@ tags:
 featured: false
 draft: false
 ---
-Today I continued with my experiment in using AI to build my own workspace in GitHub to 
-a) look for better ways to manage and edit markdown files, and 
-b) share those files with an external party, and 
-c) have the results look professional. 
+Today I installed the Pages CMS on my GitHub repository, which meant I was able to:
 
-From what I understand, markdown files are likely to be a long term new thing that I need to understand and know how to manage as a Knowledge Worker.
-
-I still think using SharePoint is easier for dealing with markdown files, but I’ve always found that you have to use these things to find the constraints. 
-
-Today I installed the Pages CMS on my GitHub, which meant I was able to:
-
-- See all my markdown files in nice folders (I.e. without all the GitHub coding files),
-- Edit the files in a nice UI (no more vibe coding!), and
+- See all my content posts in nice folders (i.e. without all the website coding folders and files),
+- Edit the content in a nice UI (no more vibe coding!), and
 
 ![A Markdown file's frontmatter and body mapped to Pages CMS form fields](../../assets/images/pages-cms-same-file-two-views.svg)
 
-- Click Save (which sends the commit to GitHub).
+- Click Save to publish/edit the content to the website (i.e. commit in GitHub).
 
 ![Editing before and after Pages CMS](../../assets/images/pages-cms-before-after.svg)
 
-I still consider this part of my AI learning exercise, as I couldn’t have done any of this without AI.
+I still consider this part of my AI learning exercise, as I couldn’t have setup the Pages CMS without AI.
 
-I needed Claude to help me setup the `.pages.yml` file in my GitHub repository. 
+For example, I needed Claude to help me setup the `.pages.yml` file in my GitHub repository. 
 
 ![How Pages CMS fits between me, GitHub and the live site](../../assets/images/pages-cms-how-it-fits.svg)
 
-Since getting Pages CMS working, I have found myself switching between GitHub, Pages CMS and Claude, as I play around with the settings. Claude continues to help me out whenever I break things.
+Since getting Pages CMS working, I have found myself still switching between GitHub, Pages CMS and Claude, as I play around with the settings. 
 
-My next step is to see if I can get my GitHub site looking significantly better than a SharePoint view of a markdown file. 
-If I can make that happen then maybe GitHub is worth the faff.
+Claude continues to help me out whenever I break things.
