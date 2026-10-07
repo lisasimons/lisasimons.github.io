@@ -21,20 +21,19 @@ I still think using SharePoint is easier for dealing with markdown files, but Iâ
 Today I installed the Pages CMS on my GitHub, which meant I was able to:
 
 - See all my markdown files in nice folders (I.e. without all the GitHub coding files),
+- Edit the files in a nice UI (no more vibe coding!), and
 
 ![A Markdown file's frontmatter and body mapped to Pages CMS form fields](../../assets/images/pages-cms-same-file-two-views.svg)
 
-- Edit the files in a nice UI (no more vibe coding!), and
-
-![Editing before and after Pages CMS](../../assets/images/pages-cms-before-after.svg)
-
 - Click Save (which sends the commit to GitHub).
 
-![How Pages CMS fits between me, GitHub and the live site](../../assets/images/pages-cms-how-it-fits.svg)
+![Editing before and after Pages CMS](../../assets/images/pages-cms-before-after.svg)
 
 I still consider this part of my AI learning exercise, as I couldnâ€™t have done any of this without AI.
 
 I needed Claude to help me setup the `.pages.yml` file in my GitHub repository. 
+
+![How Pages CMS fits between me, GitHub and the live site](../../assets/images/pages-cms-how-it-fits.svg)
 
 Since getting Pages CMS working, I have found myself switching between GitHub, Pages CMS and Claude, as I play around with the settings. Claude continues to help me out whenever I break things.
 
