@@ -2,7 +2,7 @@
 title: Pages CMS
 description: Installing the Pages CMS has made adding and editing markdown files
   in my GitHub repository so much easier.
-pubDatetime: 2026-10-07T09:00:00Z
+pubDatetime: 2026-10-06T17:00:00Z
 tags:
   - learningaboutai
   - markdownfiles
