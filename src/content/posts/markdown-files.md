@@ -1,6 +1,6 @@
 ---
 title: Markdown Files
-description: Markdown is currently the default format of text from AI models.
+description: Markdown is currently the default file format of text from AI models.
 pubDatetime: 2026-10-06T09:00:00Z
 featured: false
 draft: false
