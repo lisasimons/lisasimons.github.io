@@ -28,6 +28,8 @@ For example, I needed Claude to help me setup the `.pages.yml` file in my GitHub
 
 ![How Pages CMS fits between me, GitHub and the live site](../../assets/images/pages-cms-how-it-fits.svg)
 
-Since getting Pages CMS working, I have found myself still switching between GitHub, Pages CMS and Claude, as I play around with the settings. 
+Since getting Pages CMS working, I have found myself still switching between GitHub, Pages CMS and Claude, as I play around. In particular, uploading multiple versions of image files requires renaming the old file first (unless I bother vibe coding the fix).
 
-Claude continues to help me out whenever I break things.
+Claude continues to help me out whenever I break things, and whenever I decide to add more features. 
+
+It's pretty satisfying.
