@@ -9,6 +9,8 @@ tags:
 featured: false
 draft: false
 ---
+🐝 AI Buzzwords: GitHub. Pages CMS. Markdown files.
+
 Today I installed the Pages CMS on my GitHub repository, which meant I was able to:
 
 - See all my content posts in nice folders (i.e. without all the website coding folders and files),
