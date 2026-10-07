@@ -7,6 +7,8 @@ pubDatetime: 2026-10-05T09:00:00Z
 featured: false
 draft: false
 ---
+🐝 AI Buzzwords: GEO. Markdown files. Structured data.
+
 To increase the likelihood of appearing in AI answers, I worked with Claude to:
 
 a) Vibe code a GitHub repository, including "Structured Data" that AI can read,
