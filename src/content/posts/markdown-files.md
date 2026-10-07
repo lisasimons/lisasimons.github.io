@@ -17,7 +17,7 @@ b) Share Markdown files with external parties, and
 
 c) Present Markdown files in a professional manner. 
 
-I have used this [Markdown Guide: Basic Syntax page]([https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)) to add links and images in the Markdown files (both in SharePoint and GitHub).
+I have used this [Markdown Guide: Basic Syntax page](https://www.markdownguide.org/basic-syntax/) to add links and images in the Markdown files (both in SharePoint and GitHub).
 
 ![My Markdown Files post as raw text and as a rendered page](../../assets/images/markdown-raw-vs-rendered.jpg)
 
